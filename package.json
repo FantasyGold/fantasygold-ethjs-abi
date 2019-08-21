@@ -1,5 +1,5 @@
 {
-  "name": "fantasygoldjs-ethjs-abi",
+  "name": "@fantasygold/fantasygoldjs-ethjs-abi",
   "version": "1.0.0",
   "description": "Ethereum encoding and decoding methods for FantasyGold from the ethers-io-wallet.",
   "main": "src/index.js",
@@ -42,15 +42,18 @@
   ],
   "author": "Nick Dodson <thenickdodson@gmail.com>",
   "contributors": [
-    {
-      "name": "Richard Moore",
-      "email": "me@ricmoo.com",
-      "url": "https://ethers.io"
-    }
+    "Richard Moore <me@ricmoo.com> (https://ethers.io)"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/ethjs/ethjs-abi"
+    "url": "git://github.com/ethjs/ethjs-abi.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ethjs/ethjs-abi/issues"
+  },
+  "homepage": "https://github.com/ethjs/ethjs-abi#readme",
+  "directories": {
+    "doc": "docs"
+  }
 }
